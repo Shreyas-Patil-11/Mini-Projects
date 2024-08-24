@@ -1,2 +1,2 @@
 # Mini-Project
-Samll Projects related to HTML, CSS and JavaScript
+Small Projects related to HTML, CSS and JavaScript
